@@ -1,8 +1,16 @@
 name: voici
 channels:
-  - https://prefix.dev/emscripten-forge-dev
-  - https://prefix.dev/conda-forge
+  - conda-forge
 dependencies:
+  - python=3.11
   - xeus-python
   - pandas
-  - bqplot
+  - folium
+  - geopandas
+  - pyproj
+  - shapely
+  - fiona
+  - rtree
+  - branca
+  - ipywidgets
+  - jupyterlab
