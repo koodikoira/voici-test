@@ -15,4 +15,3 @@ dependencies:
   - ipywidgets
   - jupyterlab
   - openpyxl
-  - uuid
